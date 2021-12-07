@@ -1,4 +1,4 @@
-👋 Hi, I’m @Jaime
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me 
+- 👋 Hi, I’m @Jaime
+- 🌱 I’m currently learning Data Science, Python and Machile Learning.
+- 📫 You can find me in my LinkedIn: https://www.linkedin.com/in/jaime-melero-04a22194/?originalSubdomain=es
+- You can find my work here:
